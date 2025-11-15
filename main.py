@@ -112,4 +112,4 @@ if __name__ == "__main__":
     df = gerar_logs(100_000)
     load_particionado(df)
     analisar()
-    print("\nDATA LAKE PRONTO! Você é uma Engenheira de Dados TOP!")
+    print("\Pipeline concluído: Data Lake particionado e pronto para análise")
