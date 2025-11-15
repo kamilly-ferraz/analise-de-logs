@@ -1,4 +1,4 @@
-# Data Lake de Logs - Nerbos
+# Data Lake de Logs
 
 ## 🔹 Descrição do Projeto
 Este projeto simula um **Data Lake de logs de acesso de usuários** em **PostgreSQL**, permitindo práticas de engenharia de dados como **particionamento**, **ETL** e **análise de dados**.  
